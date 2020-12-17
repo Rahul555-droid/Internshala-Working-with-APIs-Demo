@@ -1,4 +1,4 @@
-# Internshala-Working-with-APIs-Demo
+# REST API project Movie recommendation System
 A simple demo of working with APIs .Here using simple APIs of two movie sites namely tastedive and OMDB I created a movie recommmendation system
 
 In this project I mashed up data from two different APIs to make movie recommendations. The TasteDive API lets you provide a
